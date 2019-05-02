@@ -15,7 +15,7 @@ and JavaScript delayed jumbotron text.
 I studied many websites for inspiration, including the *StudentExampleFive*, which certainly left an impression.
 However, the basic layout is inspired by this helpful Udemy [course](https://www.udemy.com/learn-bootstrap-4-by-creating-an-advanced-bootstrap-theme/).
 
-Not knowing and JavaScript, but wanting to use it, this course provided some great code, although I heavily customised it to suit MyPizza.
+Not knowing JavaScript, but wanting to use it, this course provided some great code, although I heavily customised it to suit MyPizza.
 
 I wanted to include visually pleasing animations throughout the site, they can be found at every section.
 The colours were carefully handpicked for MyPizza also, with a nice balance of Spartan Red complementing the grays & whites.
@@ -28,7 +28,7 @@ The same goes for the logos & images, which I spent a long time finding the perf
 4. JavaScript and Jquery v3.4.0 were used for the interactivity of the website.
 5. Bash
 6. Ubuntu
-7.Chrome Dev Tools
+7. Chrome Dev Tools
 8. Sublime Text
 
 
