@@ -35,7 +35,10 @@ The same goes for the logos & images, which I spent a long time finding the perf
 ## Features 
 This site uses the scrollSpy in Bootstrap with some JavaScript customization for  'smooth scrolling' throughout the page.
 An auto-collapsing navbar menu is also present when used on smaller devices.
-This site includes two interactive carousels as well an interactive image grid.
+This site includes two interactive carousels as well an interactive image grid, both carousles are automatic.
+This site is mainly interactive, with user-positive animations at ever section.
+The 'Our Skills' section includes dynamic number statistics also.
+
 
 ## Testing
 Having to alter and customize almost all of the original code, there were definetly some hurdles to jump during development.
