@@ -47,7 +47,7 @@ The same goes for the logos & images, which I spent a long time finding the perf
 ## Testing
 Having to alter and customize almost all of the original code, there were definetly some hurdles to jump during development.
 I spent a great deal of time trying to troubleshoot issues such as social media logos & specific colours with certain actions,
-and eventually solved these issues with the '!important' cod in my CSS.
+and eventually solved these issues with the '!important' code in my CSS.
 
 The website was also designed with respoinsive design in mind, and was developed at many different sizes. The same goes for browsers,
 have tested on Chrome, Safari, Microsoft Edge & FireFox.
