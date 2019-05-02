@@ -13,7 +13,8 @@ Because of this, I designed the landing page to be quite minimalistic, with a tr
 and JavaScript delayed jumbotron text.
 
 I studied many websites for inspiration, including the *StudentExampleFive*, which certainly left an impression.
-However, the basic layout is inspired by this helpful Udemy [course](https://www.udemy.com/learn-bootstrap-4-by-creating-an-advanced-bootstrap-theme/)
+However, the basic layout is inspired by this helpful Udemy [course](https://www.udemy.com/learn-bootstrap-4-by-creating-an-advanced-bootstrap-theme/).
+
 Not knowing and JavaScript, but wanting to use it, this course provided some great code, although I heavily customised it to suit MyPizza.
 
 I wanted to include visually pleasing animations throughout the site, they can be found at every section.
@@ -25,6 +26,11 @@ The same goes for the logos & images, which I spent a long time finding the perf
 2. CSS3
 3. Bootstrap v4.3.1
 4. JavaScript and Jquery v3.4.0 were used for the interactivity of the website.
+5. Bash
+6. Ubuntu
+7.Chrome Dev Tools
+8. Sublime Text
+
 
 ## Features 
 This site uses the scrollSpy in Bootstrap with some JavaScript customization for  'smooth scrolling' throughout the page.
@@ -41,6 +47,8 @@ have tested on Chrome, Safari, Microsoft Edge & FireFox.
 
 Finding and sizing/colouring all of the images were tedious to say the least, but I'm happy with the end result!
 
+I also had to troubleshoot some `h4` text on smaller screens, it wouldn't align correctly, so I just lowered the font size by a small amount.
+
 ## Deployment
 This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update 
 automatically upon new commits to the master branch.
@@ -55,11 +63,11 @@ To cut ties with this GitHub repository, type git remote rm origin into the term
 All text within this website was written by me.
 
 ### Media
-All photos were taken from [Pexels](https://www.pexels.com/) or [Pixabay](https://pixabay.com/)
+All photos were taken from [Pexels](https://www.pexels.com/) or [Pixabay](https://pixabay.com/).
 
-All icons can be found on [FontAwesome](https://fontawesome.com/)
+All icons can be found on [FontAwesome](https://fontawesome.com/).
 
 ### Acknowledgements
-The basic HTML structure as well as the CSS folder are from the mentioned Udemy course. All of the JavaScript and Jquery files can be found in said [course](https://www.udemy.com/learn-bootstrap-4-by-creating-an-advanced-bootstrap-theme/)
+The basic HTML structure as well as the CSS folder are from the mentioned Udemy course. All of the JavaScript and Jquery files can be found in said [course](https://www.udemy.com/learn-bootstrap-4-by-creating-an-advanced-bootstrap-theme/).
 
 The *StudentExampleGradeFive* gave me great inspiriation with it's minimalistic design, it also made me quite ambitious, which is one of the reasons why I looked for help on Udemy for this project.
