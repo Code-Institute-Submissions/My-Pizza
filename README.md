@@ -67,14 +67,14 @@ To cut ties with this GitHub repository, type git remote rm origin into the term
 ## Credits
 
 ### Content 
-All text within this website was written by me.
+* All text within this website was written by me.
 
 ### Media
-All photos were taken from [Pexels](https://www.pexels.com/) or [Pixabay](https://pixabay.com/).
+* All photos were taken from [Pexels](https://www.pexels.com/) or [Pixabay](https://pixabay.com/).
 
-All icons can be found on [FontAwesome](https://fontawesome.com/).
+* All icons can be found on [FontAwesome](https://fontawesome.com/).
 
 ### Acknowledgements
-The basic HTML structure as well as the CSS folder are from the mentioned Udemy course. All of the JavaScript and Jquery files can be found in said [course](https://www.udemy.com/learn-bootstrap-4-by-creating-an-advanced-bootstrap-theme/).
+* The basic HTML structure as well as the CSS folder are from the mentioned Udemy course. All of the JavaScript and Jquery files can be found in said [course](https://www.udemy.com/learn-bootstrap-4-by-creating-an-advanced-bootstrap-theme/).
 
-The *StudentExampleGradeFive* gave me great inspiriation with it's minimalistic design, it also made me quite ambitious, which is one of the reasons why I looked for help on Udemy for this project.
+* The *StudentExampleGradeFive* gave me great inspiriation with it's minimalistic design, it also made me quite ambitious, which is one of the reasons why I looked for help on Udemy for this project.
