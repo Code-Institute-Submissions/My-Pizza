@@ -428,6 +428,17 @@ a.top-scroll:hover {
     }
 }
 
+@media screen and (max-width: 600px) {
+    .card h4 {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
+}
+
 
 
 /*============ BOOTSTRAP BREAK POINTS:
